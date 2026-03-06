@@ -35,3 +35,62 @@ Flipkart BigBillion Day sales -
 - Average order value - ₹2000  
 
 GMV = 1 Lakh * 200 = ₹20 Crore
+
+---
+
+### 2. Net Revenue 
+
+It is the total income that a company recieves at the end. It is the amount recieved after deducting expenses from GMV.
+
+**Formula**
+
+Net Revenue = GMV - Returns - Discounts - Cancellations - Seller Commision
+
+---
+
+### 3. AOV (Average Order Value)
+
+It tells the average value of one order. This metric tells how much the customers are spending on one order.
+
+**Formula**
+
+AOV = Total Revenue / Total Number of Orders
+
+**Business Use Case**
+
+For example if a company wants to increase their AOV then they can add free delivery on orders above ₹499 or can suggest frequently bought together section to attract the customer attention making cart value above ₹499 thus resulting increased AOV.
+
+**Methods to increase AOV**
+
+-> Cross Sell
+-> Up sell
+-> Bundling Offers
+-> Increasing the free delivery threshold
+
+---
+
+### 4. Conversion Rate (CVR)
+
+It is used to tell how many customers visit the website/app and how much of them actually ordered something. It is a critical metric.
+
+**Formula**
+
+CVR = ( Total Order / Total Visitor ) * 100 
+
+**Industry Benchmarks**
+
+In Ecommerce 2-4% CVR is considered as Normal and 5% is excellent.
+
+---
+
+### 5. Customer Acquisition Cost (CAC)
+
+How much money is spent to bring one customer. Money spent on marketing, advertisement, promotions etc.
+
+**Formula**
+
+CAC = Total Marketing & Sales Spendings/ No. of new Customers acquired
+
+---
+
+
