@@ -92,5 +92,5 @@ How much money is spent to bring one customer. Money spent on marketing, adverti
 CAC = Total Marketing & Sales Spendings/ No. of new Customers acquired
 
 ---
-
+### 6. LTV/CLV (Customer Lifetime Value)
 
