@@ -20,12 +20,15 @@ Total value of all goods sold at one platform irrrespective of payment sucessful
 
 **Formula**
 
+```
 GMV = Total Orders * Average Order Value
+```
 
 **or**
 
+```
 GMV = SUM of (Quantity * Selling Price) for all orders
-
+```
 
 **Example**
 
@@ -44,7 +47,9 @@ It is the total income that a company recieves at the end. It is the amount reci
 
 **Formula**
 
+```
 Net Revenue = GMV - Returns - Discounts - Cancellations - Seller Commision
+```
 
 ---
 
@@ -54,7 +59,9 @@ It tells the average value of one order. This metric tells how much the customer
 
 **Formula**
 
+```
 AOV = Total Revenue / Total Number of Orders
+```
 
 **Business Use Case**
 
@@ -75,7 +82,9 @@ It is used to tell how many customers visit the website/app and how much of them
 
 **Formula**
 
+```
 CVR = ( Total Order / Total Visitor ) * 100 
+```
 
 **Industry Benchmarks**
 
@@ -89,8 +98,75 @@ How much money is spent to bring one customer. Money spent on marketing, adverti
 
 **Formula**
 
+```
 CAC = Total Marketing & Sales Spendings/ No. of new Customers acquired
+```
 
 ---
 ### 6. LTV/CLV (Customer Lifetime Value)
 
+The total revenue a customer can generate for a company throughout their lifetime as a buyer.
+
+**Formula** 
+
+```
+LTV = AOV * Purchase Frequency * Customer Lifespan
+```
+
+**Industry Benchmark**
+
+The Golden Ratio is - LTV : CAC should be >= 3:1
+
+If the lifetime value of a customer equals the customer acquisition cost, the company is likely to go bankrupt.
+
+---
+### 7. Cart Abandonment Rate
+
+How many people added items to cart but never checkout. It is a very painful painful metric for business. 
+
+**Formula**
+
+```
+CAR = ( 1 - Orders completed / Carts Created ) * 100
+```
+
+**Industry Benchmarks**
+
+Industry average 70% abandanment rate is normal.
+
+---
+### 8. Repeat Purchase Rate / Retention Rate
+
+A high repeat rate indicates loyal customers and a healthy business.  This means more customers are buying again.
+
+**Formula** 
+
+```
+Retention Rate = ( Customer who bought more than once / Total Customers ) * 100
+```
+---
+###  9. Return Rate
+
+A high return rate suggests a problem with product quality or unmet expectations.
+
+**Formula** 
+
+```
+Return Rate = (Returned Orders / Total Orders) × 100
+```
+---
+### 10. ROAS (Revenue from ADS/Ad Spend)
+
+How ​​much revenue did you get back on every ₹1 you spent on ads.
+
+**Formula**
+
+```
+ROAS = Revenue from Ads / Ad Spend
+```
+
+**Industry Benchmark**
+
+ROAS > 3x generally good
+
+---
